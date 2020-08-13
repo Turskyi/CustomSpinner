@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_btn_language">60dp</dimen>
+
+    <dimen name="subtitle1">16sp</dimen>
+
+    <dimen name="offset20">20dp</dimen>
+    <dimen name="offset40">40dp</dimen>
+    <dimen name="offset52">52dp</dimen>
+</resources>

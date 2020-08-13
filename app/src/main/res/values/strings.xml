@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CustomSpinner</string>
+    <string name="content_description_button">button</string>
+    <string name="language_en" translatable="false">EN</string>
+    <string name="language_ru" translatable="false">RU</string>
+    <string name="language_es" translatable="false">ES</string>
+    <string name="language_de" translatable="false">DE</string>
+    <string name="language_fr" translatable="false">FR</string>
+    <string name="language_cn" translatable="false">zh_CN</string>
+    <string name="language_jp" translatable="false">ja_JP</string>
+    <string name="language_kr" translatable="false">ko_KR</string>
+    <string name="language_ae" translatable="false">AE</string>
+    <string name="language_pt" translatable="false">PT</string>
+    <string name="language_ua" translatable="false">uk_UA</string>
+</resources>

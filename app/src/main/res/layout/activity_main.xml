@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:paddingTop="@dimen/offset52"
+    tools:context=".presentation.model.view.MainActivity">
+
+    <Spinner
+        android:id="@+id/spinnerWordLanguage"
+        style="@style/SpinnerStyle"
+        android:layout_marginTop="@dimen/offset40"
+        tools:listitem="@layout/item_language" />
+
+</LinearLayout>
